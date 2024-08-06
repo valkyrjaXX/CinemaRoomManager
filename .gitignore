@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Cinema Room Manager (Go)/*
+!/Cinema Room Manager (Go)/task/
+/Cinema Room Manager (Go)/task/*
+!/Cinema Room Manager (Go)/task/main.go
